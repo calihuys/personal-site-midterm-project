@@ -7,6 +7,8 @@ My cat Blackie has been apart of my life for a long time. I remember being a lit
 
 Blackie is still alive today and has no cat siblings anymore. Some of my favorite memories are with Blackie. On my nineteenth birthday, I remember coming home to Blackie who had **tucked** himself underneath my covers on my bed and was sleeping. My brother and I have also taken Blackie for car rides which he either really enjoys laying underneath my back windshield or has a full blown panic attack and sits on the floor with his mouth hanging open. 
 
+<img src="IMG_8426.jpg" width="200" height="150" /> 
+
 #### Tiger
 Tiger was never our cat to begin with. When I found Tiger as a teenager, he was our neighbor's cat. Our neighbor though would rarely let him into their house, even during our freezing winters. I would go sit in my backyard and call him over to give him food and pets. 
 
