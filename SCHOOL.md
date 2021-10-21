@@ -16,3 +16,6 @@ By the start of the school year this year, most of the friendships I made last y
 The campus here at Mizzou is so pretty. Sometimes walking across campus can be a pain because it is so spread out, but campus is beautiful in every season. I also feel like you get your exercise in for the day. When I lived in the Southwest Village dorms, my classes were so far away, but I got to get out and move my legs for a bit everyday or so. 
 
 The one complaint I do have about the Mizzou campus is how awful it can be walking during our intense winter weeks. I recall last year it was sleeting, freezing rain and I had a class on the north side of campus. My eyelashes had froze in the wind and by the time I got to sit down in class I could barely feel my toes. 
+
+![Mizzou Columns 2021](https://medicine.missouri.edu/sites/default/files/2021-03/130429CampusWalkJesseColumns18-800x450.jpg)
+*Mizzou historical columns during what appears to be fall of 2021.*
