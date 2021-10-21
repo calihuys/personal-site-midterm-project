@@ -15,6 +15,10 @@ Running, hiking, or anything outdoors are my dad's favorite things to do. Lately
 
 My dad also has worked really hard to give life experiences our family will never forget. At the age of nineteen, I have been to about thirty-five US states and seen some of the prettiest views. My dad has a passion for the outdoors so he has taken us on some pretty cool vacations to places like the Grand Tetons, North Cascades, Yellowstone, and several ski trips out in the Rocky Mountains. 
 
+![Mount Baker in the North Cascades.](https://alanmajchrowicz.com/wp-content/uploads/2019/01/mount_baker_north_cascades_washington_49891.jpg)
+
+*This is a photo of Mount Baker in the North Cascades. We did a day of hiking here on our family vacation to Washington state.*
+
 **The following is a link to a website for the ski resort we would go to over Spring Breaks:**
 <https://www.aspensnowmass.com/>
 
