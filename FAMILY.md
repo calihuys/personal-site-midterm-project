@@ -2,8 +2,9 @@
 
 In my **immediate** family, I have my mom, dad, and brother. We love to do things outdoors as a family and have traveled to a **ton** of awesome places around the United States. 
 
-<img src="IMG_7933.jpg" width="250" height="275" />
+<img src="IMG_7933.jpg" width="250" height="275" /> 
 
+*This is a photo of the Grand Tetons in Wyoming that I took on one of our trips.*
 #### My Mom
 Usually, my mom can be found bike riding, going for walks, or hiking with my dad. My mom's favorite pass time is probably bike riding. Sometimes, my dad will go for a run and my mom will follow him with water. 
 
