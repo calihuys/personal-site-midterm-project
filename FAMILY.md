@@ -12,8 +12,8 @@ Running, hiking, or anything outdoors are my dad's favorite things to do. Lately
 
 My dad also has worked really hard to give life experiences our family will never forget. At the age of nineteen, I have been to about thirty-five US states and seen some of the prettiest views. My dad has a passion for the outdoors so he has taken us on some pretty cool vacations to places like the Grand Tetons, North Cascades, Yellowstone, and several ski trips out in the Rocky Mountains. 
 
-![Snowmass Ski Mountain Trails](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.coloradoskiresortmaps.com%2Fsnowmass.html&psig=AOvVaw1adu_I6RTW6pWJ3olgEZmz&ust=1634857029222000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLj_8pWL2vMCFQAAAAAdAAAAABAJ)
-
+**The following is a link to a website for the ski resort we would go to over Spring Breaks:**
+<https://www.aspensnowmass.com/>
 
 #### My Brother
 Three years older than me, my brother is twenty-two and is the coolest person I've ever met. Although sometimes he gets sick of me, we enjoy spending time together getting food or going for drives when I'm home from college. Sometimes I have to beg for him to hangout with me, but that is okay with me.

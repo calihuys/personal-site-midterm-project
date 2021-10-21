@@ -10,3 +10,6 @@ This year, I was able to get a job working for the University of Missouri on Eve
 Although I have only worked a Chris Stapleton concert and SEC Football Saturdays, I've had a ton of fun. Gamedays with your friends can be fun, but when the game isn't predicted to be a *good* one, why not work it and make money? 
 
 I also really enjoy working because of my friends that work with me sometimes. Bethany (mentioned on the friends page), is applying to for a job on Event Staff which is exciting! I met one of my co-workers, Garrett, and really enjoy working with him. At the Chris Stapleton concert, we both were working and got to watch the show while getting paid!  
+
+**You can access a more detailed job description and an opportunity to apply at:**
+<https://mutigers.com/sports/2015/3/19/GEN_20140101118.aspx>
