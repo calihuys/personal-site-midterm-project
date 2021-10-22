@@ -1,4 +1,7 @@
+[Go Home](README.md "Return to Home Page")
+
 # *Work*
+
 This year, I was able to get a job working for the University of Missouri on Event Staff. As an Event Staff worker, I get to choose my schedule and experience sports events (and other campus events) while getting paid!
 
 **A list of events we can work include:**

@@ -1,3 +1,5 @@
+[Go Home](README.md "Return to Home Page")
+
 # *My Pets*
 
 Throughout my life, I've only had cats as pets. Two of them I don't have a lot of memories with, McCarthur and Dusty. The three I do have several memories with I will talk about below.

@@ -1,3 +1,6 @@
+
+[Go Home](README.md "Return to Home Page")
+
 # *My Family*
 
 In my **immediate** family, I have my mom, dad, and brother. We love to do things outdoors as a family and have traveled to a **ton** of awesome places around the United States. 

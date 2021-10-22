@@ -1,3 +1,5 @@
+[Go Home](README.md "Return to Home Page")
+
 # *My Friends*
 
 Although I do not have very many friends, I have awesome friends. Some of my closest friends I have met at college, while I have stuck with a couple for many, many years that I met in my hometown. 
