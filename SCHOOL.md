@@ -7,6 +7,39 @@ Sometimes schoolwork can be overwhelming for me, especially this class. Coming t
 
 With COVID, classes have been more difficult to say the least. Being in STEM, since my major is Economics, a lot of difficult concepts pop up in my major classes. This semester, both of my major core classes are completely online with no scheduled meeting time. I'm a person who likes to ask questions because I usually don't understand everything fully. In total I have only had five in-person classes split between three semesters of classes. A lot of kids tend to like online school, but I do not. Based on my experiences here at Mizzou, in-person classes have been much easier to the grade in, especially due to the fact you can connect with your professors.
 
+One of the things I have learned how to do (to an extent) is write computer code. The code for one of my previous assignments is:
+
+```import turtle
+
+def draw_turtle(circles, radius, angle, turtleSpeed, turtleColor, turtleX, turtleY):
+    thisTurtle=turtle.Turtle()
+    thisTurtle.hideturtle()
+    thisTurtle.color(turtleColor)
+    thisTurtle.penup()
+    thisTurtle.goto(turtleX, turtleY)
+    thisTurtle.pendown()
+    thisTurtle.speed(turtleSpeed)
+    for x in range(circles):
+        thisTurtle.circle(radius)
+        thisTurtle.forward(5)
+        thisTurtle.left(angle)
+
+
+
+turtle.Screen().bgcolor("white")
+
+NUM_CIRCLES = 120
+RADIUS = 15
+ANGLE = 3
+ANIMATION_SPEED = 0
+
+draw_turtle(NUM_CIRCLES, RADIUS, ANGLE, ANIMATION_SPEED, "black", 0, 0)
+draw_turtle(NUM_CIRCLES, RADIUS, ANGLE, ANIMATION_SPEED, "red", 200, 0)
+draw_turtle(NUM_CIRCLES, RADIUS, ANGLE, ANIMATION_SPEED, "blue", -200, 0)
+draw_turtle(NUM_CIRCLES, RADIUS, ANGLE, ANIMATION_SPEED, "yellow", -100, -110)
+draw_turtle(NUM_CIRCLES, RADIUS, ANGLE, ANIMATION_SPEED, "green", 100, -110)
+```
+
 #### Social Life
 My first year on campus I honestly had no social life. With COVID and some personal issues I was having, it made it super difficult to go out and meet people. Without friends, it is kind of hard to have a really good social life. Second semester things started to get a little better for me, but not the greatest, still due to COVID. However, I did make some friends that ended up being good ones. Through some friends I had from home and my roommates, I was able to get out and connect with new people. By the end of the year last year, I felt like I my social life was improved.
 
